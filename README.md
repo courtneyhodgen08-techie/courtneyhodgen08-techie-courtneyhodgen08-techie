@@ -64,9 +64,9 @@ When I'm not pushing pixels or wrangling JavaScript, you'll find me:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0066&icon_color=9900ff&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=courtneyhodgen08-techie &show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0066&icon_color=9900ff&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0066&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=courtneyhodgen08-techie &layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0066&text_color=ffffff)
 
 </div>
 
@@ -78,21 +78,8 @@ When I'm not pushing pixels or wrangling JavaScript, you'll find me:
 
 | Game | Genre | Play |
 |------|-------|------|
-| 🎮 Coming soon... | — | — |
-
-> Replace this table with links to your actual games on itch.io or GitHub Pages!
-
----
-
-## 📡 `> CONNECT.cfg`
-
-<div align="center">
-
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://YOUR_USERNAME.itch.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
+| 🎮 lord of the rings tarot card game.
+| 🎮 Tamagotchi X Pokemon pet game
 ---
 
 <div align="center">
